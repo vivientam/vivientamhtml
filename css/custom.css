@@ -1,0 +1,30 @@
+.btn-list {
+  float: right;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+
+.btn-biography{
+  float: right;
+  margin-top: 80px;
+  margin-right: 50px;
+}
+
+.btn-hobbies {
+  float: right;
+  margin-top: 120px;
+  margin-right: 50px;
+}
+
+.btn-projects {
+  float: right;
+  margin-top: 150px;
+  margin-right: 50px;
+}
+
+.btn-contacts {
+  float: right;
+  margin-top: 180px;
+  margin-right: 50px;
+}
+
